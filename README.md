@@ -23,7 +23,9 @@ First, I created a resource group in Azure and named it AD-Lab.
 
 ---
 
-![ade1](https://github.com/user-attachments/assets/34c65dcb-8407-45da-9886-8085c1cb303b)
+(![azure 1](https://github.com/user-attachments/assets/84f578a9-354d-47c2-b0be-ce67c73faa0c)
+
+
 
 ---
 
@@ -31,7 +33,8 @@ First, I created a resource group in Azure and named it AD-Lab.
  
  ---
  
-![a2](https://github.com/user-attachments/assets/b01629df-7494-425b-b2f7-10f8d5da7119)
+![azure 2](https://github.com/user-attachments/assets/08817f8e-ae71-47d9-ac4b-f8bb9dc1682b)
+
 
 ---
 
@@ -40,7 +43,8 @@ Within this network, I launched a virtual machine named DC-1, selecting Windows 
 ---
 
 
-![aze3](https://github.com/user-attachments/assets/63d6ec00-a5f4-4444-96d1-1c5960417f9c)
+![azure 3](https://github.com/user-attachments/assets/a9ee07e0-fde9-4630-a314-4939402332b5)
+
 ![ade4](https://github.com/user-attachments/assets/813dafa1-2406-4e6a-93c0-8d446106e118)
 ![ade5](https://github.com/user-attachments/assets/2a6f0944-9a8b-4eab-89ae-e26fbc04a26e)
 
@@ -50,11 +54,12 @@ Next, I configured DC-1’s network settings and set its IP address to static to
 
 ---
 
-![ade9](https://github.com/user-attachments/assets/6cd18429-1e97-4234-bce7-562a32de73af)
 
-![ade10](https://github.com/user-attachments/assets/6ccf71b4-3c6f-408d-bd4a-9041c1c72044)
 
-![ade11](https://github.com/user-attachments/assets/57afc05a-2160-4b88-bd09-ecbd93befddb)
+
+
+![azure 6](https://github.com/user-attachments/assets/213dd864-4f50-4c65-88a8-06cc5740ddd2)
+
 
 ---
 
@@ -62,7 +67,8 @@ Then, I created another virtual machine, Client-1, using a standard Windows 10 i
 
 ---
 
-![ade6](https://github.com/user-attachments/assets/811493e1-bacd-48ae-bf3b-c3a978702bb6)
+![azure 7](https://github.com/user-attachments/assets/1988ae96-b55c-4db0-ac0d-60c898edc756)
+
 
 ![ade7](https://github.com/user-attachments/assets/198fa827-5e32-4044-976d-03574397e6cc)
 
@@ -74,7 +80,9 @@ I retrieved DC-1’s public IP address, signed into it, and disabled the firewal
 
 ---
 
-![ade12](https://github.com/user-attachments/assets/1d8997fa-4cb0-429e-976b-79d635b37992)
+![azure 10](https://github.com/user-attachments/assets/59121b04-4e64-46fa-bd1a-568741af872d)
+
+
 
 ![ade13](https://github.com/user-attachments/assets/2866823c-8537-4185-bbfb-aa29333a5b22)
 
@@ -88,13 +96,15 @@ Afterward, I updated Client-1’s DNS settings to point to DC-1’s private IP a
 
 ---
 
-![ade14](https://github.com/user-attachments/assets/cd0259c7-f128-4945-854d-5df28f43d2b6)
+![azure 13](https://github.com/user-attachments/assets/d7ab4c35-02ed-4ede-84d3-5a5e1c6020e3)
 
-![ade15](https://github.com/user-attachments/assets/754bd832-081d-49b4-b6a9-4e6a43ff7ad9)
+
+![azure 14](https://github.com/user-attachments/assets/e4afbaca-5dc2-475d-ab23-d657cea9f334)
+
 
 ![ade15 (1)](https://github.com/user-attachments/assets/a1cd5411-3e7a-4728-9e3d-b8c612a169ab)
 
-![ade19](https://github.com/user-attachments/assets/ae2e1e60-05c9-4672-8b86-01ceea2d1b32)
+
 
 ---
 
